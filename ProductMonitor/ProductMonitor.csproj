@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resource\Fonts\DIGITAL-Dream.TTF" />
+    <None Remove="Resource\Fonts\iconfont.ttf" />
+    <None Remove="Resource\images\Factory.png" />
+    <None Remove="Resource\images\logo.png" />
+    <None Remove="Resource\images\show1.png" />
+    <None Remove="Resource\images\show2.jpg" />
+    <None Remove="Resource\images\xiaoyan.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resource\images\show1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LiveCharts.Wpf" Version="0.9.7" />
+    <PackageReference Include="LiveChartsCore" Version="2.0.0-rc5.4" />
+    <PackageReference Include="LiveChartsCore.SkiaSharpView" Version="2.0.0-rc5.4" />
+    <PackageReference Include="LiveChartsCore.SkiaSharpView.WPF" Version="2.0.0-rc5.4" />
+    <PackageReference Include="NModbus" Version="3.0.81" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.9.0" />
+    <PackageReference Include="System.IO.Ports" Version="9.0.3" />
+    <PackageReference Include="System.Net.Sockets" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ModbusServers\ModbusServers.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resource\Fonts\DIGITAL-Dream.TTF" />
+    <Resource Include="Resource\Fonts\iconfont.ttf" />
+    <Resource Include="Resource\images\Factory.png" />
+    <Resource Include="Resource\images\logo.png" />
+    <Resource Include="Resource\images\show2.jpg" />
+    <Resource Include="Resource\images\xiaoyan.png" />
+  </ItemGroup>
+
+</Project>

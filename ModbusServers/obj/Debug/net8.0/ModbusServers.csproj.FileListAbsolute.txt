@@ -1,0 +1,17 @@
+C:\Users\hhh666\source\repos\ProductMonitor\ModbusServers\obj\Debug\net8.0\ModbusServers.csproj.AssemblyReference.cache
+C:\Users\hhh666\source\repos\ProductMonitor\ModbusServers\obj\Debug\net8.0\ModbusServers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhh666\source\repos\ProductMonitor\ModbusServers\obj\Debug\net8.0\ModbusServers.AssemblyInfoInputs.cache
+C:\Users\hhh666\source\repos\ProductMonitor\ModbusServers\obj\Debug\net8.0\ModbusServers.AssemblyInfo.cs
+C:\Users\hhh666\source\repos\ProductMonitor\ModbusServers\obj\Debug\net8.0\ModbusServers.csproj.CoreCompileInputs.cache
+C:\Users\hhh666\source\repos\ProductMonitor\ModbusServers\bin\Debug\net8.0\ModbusServers.exe
+C:\Users\hhh666\source\repos\ProductMonitor\ModbusServers\bin\Debug\net8.0\ModbusServers.deps.json
+C:\Users\hhh666\source\repos\ProductMonitor\ModbusServers\bin\Debug\net8.0\ModbusServers.runtimeconfig.json
+C:\Users\hhh666\source\repos\ProductMonitor\ModbusServers\bin\Debug\net8.0\ModbusServers.dll
+C:\Users\hhh666\source\repos\ProductMonitor\ModbusServers\bin\Debug\net8.0\ModbusServers.pdb
+C:\Users\hhh666\source\repos\ProductMonitor\ModbusServers\bin\Debug\net8.0\NModbus.dll
+C:\Users\hhh666\source\repos\ProductMonitor\ModbusServers\obj\Debug\net8.0\ModbusSe.74B22326.Up2Date
+C:\Users\hhh666\source\repos\ProductMonitor\ModbusServers\obj\Debug\net8.0\ModbusServers.dll
+C:\Users\hhh666\source\repos\ProductMonitor\ModbusServers\obj\Debug\net8.0\refint\ModbusServers.dll
+C:\Users\hhh666\source\repos\ProductMonitor\ModbusServers\obj\Debug\net8.0\ModbusServers.pdb
+C:\Users\hhh666\source\repos\ProductMonitor\ModbusServers\obj\Debug\net8.0\ModbusServers.genruntimeconfig.cache
+C:\Users\hhh666\source\repos\ProductMonitor\ModbusServers\obj\Debug\net8.0\ref\ModbusServers.dll

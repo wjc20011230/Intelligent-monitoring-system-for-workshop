@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Usercontrol\MonitorUC1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Usercontrol\RaderUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Usercontrol\RingUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Usercontrol\WorkShopDT.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\SettingPage1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\SettingWin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Dictionary\BtnStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Dictionary\MyBtnDictionary1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Usercontrol\MonitorUC1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Usercontrol\RaderUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Usercontrol\WorkShopDT.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SettingPage1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SettingWin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

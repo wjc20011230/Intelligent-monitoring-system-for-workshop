@@ -1,0 +1,109 @@
+{
+  "version": 2,
+  "dgSpecHash": "XhNwbw2wsEA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hhh666\\source\\repos\\ProductMonitor\\ProductMonitor\\ProductMonitor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hhh666\\.nuget\\packages\\harfbuzzsharp\\8.3.0.1\\harfbuzzsharp.8.3.0.1.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\8.3.0.1\\harfbuzzsharp.nativeassets.macos.8.3.0.1.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\8.3.0.1\\harfbuzzsharp.nativeassets.win32.8.3.0.1.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\livecharts\\0.9.7\\livecharts.0.9.7.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\livecharts.wpf\\0.9.7\\livecharts.wpf.0.9.7.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\livechartscore\\2.0.0-rc5.4\\livechartscore.2.0.0-rc5.4.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\livechartscore.skiasharpview\\2.0.0-rc5.4\\livechartscore.skiasharpview.2.0.0-rc5.4.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\livechartscore.skiasharpview.wpf\\2.0.0-rc5.4\\livechartscore.skiasharpview.wpf.2.0.0-rc5.4.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\nmodbus\\3.0.81\\nmodbus.3.0.81.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\opentk\\3.3.1\\opentk.3.3.1.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\opentk.glwpfcontrol\\3.3.0\\opentk.glwpfcontrol.3.3.0.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\runtime.android-arm.runtime.native.system.io.ports\\9.0.3\\runtime.android-arm.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\runtime.android-arm64.runtime.native.system.io.ports\\9.0.3\\runtime.android-arm64.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\runtime.android-x64.runtime.native.system.io.ports\\9.0.3\\runtime.android-x64.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\runtime.android-x86.runtime.native.system.io.ports\\9.0.3\\runtime.android-x86.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\9.0.3\\runtime.linux-arm.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\9.0.3\\runtime.linux-arm64.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\runtime.linux-bionic-arm64.runtime.native.system.io.ports\\9.0.3\\runtime.linux-bionic-arm64.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\runtime.linux-bionic-x64.runtime.native.system.io.ports\\9.0.3\\runtime.linux-bionic-x64.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\runtime.linux-musl-arm.runtime.native.system.io.ports\\9.0.3\\runtime.linux-musl-arm.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\runtime.linux-musl-arm64.runtime.native.system.io.ports\\9.0.3\\runtime.linux-musl-arm64.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\runtime.linux-musl-x64.runtime.native.system.io.ports\\9.0.3\\runtime.linux-musl-x64.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\9.0.3\\runtime.linux-x64.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\runtime.maccatalyst-arm64.runtime.native.system.io.ports\\9.0.3\\runtime.maccatalyst-arm64.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\runtime.maccatalyst-x64.runtime.native.system.io.ports\\9.0.3\\runtime.maccatalyst-x64.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\runtime.native.system.io.ports\\9.0.3\\runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\9.0.3\\runtime.osx-arm64.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\9.0.3\\runtime.osx-x64.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\skiasharp\\3.116.1\\skiasharp.3.116.1.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\skiasharp.harfbuzz\\3.116.1\\skiasharp.harfbuzz.3.116.1.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\skiasharp.nativeassets.macos\\3.116.1\\skiasharp.nativeassets.macos.3.116.1.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\skiasharp.nativeassets.win32\\3.116.1\\skiasharp.nativeassets.win32.3.116.1.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\skiasharp.views.desktop.common\\3.116.1\\skiasharp.views.desktop.common.3.116.1.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\skiasharp.views.wpf\\3.116.1\\skiasharp.views.wpf.3.116.1.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\system.data.sqlclient\\4.9.0\\system.data.sqlclient.4.9.0.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\system.io.ports\\9.0.3\\system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\system.net.primitives\\4.3.0\\system.net.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\system.net.sockets\\4.3.0\\system.net.sockets.4.3.0.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\system.runtime.handles\\4.3.0\\system.runtime.handles.4.3.0.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\hhh666\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1”而不是项目目标框架“net8.0-windows7.0”还原包“LiveCharts 0.9.7”。此包可能与项目不完全兼容。",
+      "libraryId": "LiveCharts",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1”而不是项目目标框架“net8.0-windows7.0”还原包“LiveCharts.Wpf 0.9.7”。此包可能与项目不完全兼容。",
+      "libraryId": "LiveCharts.Wpf",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1”而不是项目目标框架“net8.0-windows7.0”还原包“OpenTK 3.3.1”。此包可能与项目不完全兼容。",
+      "libraryId": "OpenTK",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1”而不是项目目标框架“net8.0-windows7.0”还原包“OpenTK.GLWpfControl 3.3.0”。此包可能与项目不完全兼容。",
+      "libraryId": "OpenTK.GLWpfControl",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1”而不是项目目标框架“net8.0-windows7.0”还原包“SkiaSharp.Views.WPF 3.116.1”。此包可能与项目不完全兼容。",
+      "libraryId": "SkiaSharp.Views.WPF",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
